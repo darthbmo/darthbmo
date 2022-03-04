@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/darthbmo/darthbmo)](https://github.com/darthbmo/darthbmo/blob/master/LICENSE)
+
 ### Hi 👋
 
 
