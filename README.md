@@ -8,7 +8,7 @@
 ### About Me:
 
 - 🔭 Currently working at [Tactium Brasil](https://www.tactium.com.br/) ...
-- Software Developer Jr / Back-End Developer.
+- Software Developer Jr / Full Satck Developer.
 - C# | SQL Server | .NET | JavaScript,
 - [My Projects](https://github.com/darthbmo?tab=repositories) ...
 <!-- - 🤔 I’m looking for help with ... -->
