@@ -12,7 +12,7 @@
 - C# | SQL Server | .NET | JavaScript,
 - [My Projects](https://github.com/darthbmo?tab=repositories) ...
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 I am a reformed christian, father, married. Postgraduate in architecture and projects in Cloud Computing by Uniestácio...
+- 💬 Pós-graduado em Arquitetura e Projetos em Cloud Computing pela Uniestácio e Graduado em Redes de Computadores pela FATENE.
 - 📫 [e-mail](mailto:connectionreverse@gmail.com)
 - [linkedin](https://www.linkedin.com/in/michael-louren%C3%A7o-bezerra-55940592/)
 <!-- - 😄 Pronouns: ... -->
